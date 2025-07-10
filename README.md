@@ -92,8 +92,9 @@ A curated list of awesome resources for the Monero crypto-currency
     - [Monero Cash](https://moneroforcash.com) - Person-to-person Monero trading. Similar to [LocalBitcoins](https://localbitcoins.com)
 
 - With Bitcoin
-    - [Shapeshift.io](https://shapeshift.io)
     - [Bisq.io](https://bisq.io)
+    - [Shapeshift.io](https://shapeshift.io)
+    - [Zenx](https://zenx.ink) – Stateless, no-KYC crypto exchange supporting private swaps between Bitcoin, Monero, and other coins.
 
 - Guides
     - [How To Obtain Monero?](https://forum.getmonero.org/5/support/2384/the-easiest-way-to-buy-monero) - Tutorial from the official Monero forum
